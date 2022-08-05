@@ -7,11 +7,9 @@ _Major : Computer Software Engineering_
 - GitHub : github.com/HyunJunLee-Hi
 - Da, GO! mall : 54.180.154.189:8000
 
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
-
 ## Skill
 ● Back-end
--  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=TypeScript&logoColor=white"/> Django 
+- Django 
 - Rest Framework
 
 ● DB
