@@ -1,5 +1,5 @@
 [![Hyunjun Lee's github stats](https://github-readme-stats.vercel.app/api?username=HyunJunLee-Hi)](https://github.com/HyunJunLee-Hi/github-readme-stats)
-# Hello! I’m Hyunjun Lee
+# Hi! I’m Hyunjun Lee
 
 _Major : Computer Software Engineering_ 
 
