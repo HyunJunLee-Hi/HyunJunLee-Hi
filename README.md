@@ -3,7 +3,7 @@
 [![Hyunjun Lee's github stats](https://github-readme-stats.vercel.app/api?username=HyunJunLee-Hi)](https://github.com/HyunJunLee-Hi/github-readme-stats)
 # Hi! I’m Hyunjun Lee
 
-_Major : Computer Software Engineering_ 
+_Major : Computer Science Engineering_ 
 
 ## Contact & Channel
 - GitHub : github.com/HyunJunLee-Hi
