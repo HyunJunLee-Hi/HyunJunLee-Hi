@@ -10,8 +10,9 @@ _Major : Computer Software Engineering_
 - Da, GO! mall : 54.180.154.189:8000
 
 ## Skill
-● Language<br/>
+● Language
 - <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/><br/>
+- <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/><br/>
 
 ● Back-end
 - <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/><br/> 
