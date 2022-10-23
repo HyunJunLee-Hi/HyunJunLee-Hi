@@ -11,7 +11,7 @@ _Major : Computer Software Engineering_
 ● Back-end
 - Django 
 - Rest Framework
-
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/>
 ● DB
 - AWS : EC2, RDS
 - MariaDB
