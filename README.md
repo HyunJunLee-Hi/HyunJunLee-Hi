@@ -7,7 +7,7 @@ _Major : Computer Software Engineering_
 
 ## Contact & Channel
 - GitHub : github.com/HyunJunLee-Hi
-- Da, GO! mall : 54.180.154.189:8000
+- Da, GO! mall : 54.180.154.189:8000 (CLOSED)
 
 ## Skill
 ● Language
